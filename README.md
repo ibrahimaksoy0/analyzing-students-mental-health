@@ -20,3 +20,11 @@ The main goal of the project is to look at the mental health scores of internati
 I mainly worked with the students' length of stay and their PHQ-9, SCS, and ASISS scores.
 
 The SQL queries used for the analysis can be found in `analysis.sql`.
+
+## Dataset
+
+The analysis was performed using the Students' Mental Health dataset provided by DataCamp.
+
+The dataset contains information about students' length of stay and mental health diagnostic scores, including PHQ-9, SCS, and ASISS.
+
+The original dataset is not included in this repository.
